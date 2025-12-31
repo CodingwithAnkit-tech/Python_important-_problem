@@ -10,7 +10,7 @@ This repository contains a collection of **important Python programming problems
 
 This repository is created to:
 - Strengthen **Python problem-solving skills**
-- 
+ 
 - Practice **logical thinking and algorithms**
 - 
 - Prepare for **coding interviews and assessments**
