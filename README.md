@@ -12,7 +12,7 @@ This repository is created to:
 - Strengthen **Python problem-solving skills**
  
 - Practice **logical thinking and algorithms**
-- 
+ 
 - Prepare for **coding interviews and assessments**
 - 
 - Maintain a structured set of frequently asked Python problems
