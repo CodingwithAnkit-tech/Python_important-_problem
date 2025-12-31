@@ -30,7 +30,7 @@ This repository is created to:
 - Functions & Recursion
 - 
 - Strings & Lists
-- 
+ 
 - Tuples, Sets & Dictionaries
 - 
 - File Handling
