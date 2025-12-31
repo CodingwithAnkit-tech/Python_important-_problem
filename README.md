@@ -28,7 +28,7 @@ This repository is created to:
 - Loops & Conditional Statements
 - 
 - Functions & Recursion
-- 
+ 
 - Strings & Lists
  
 - Tuples, Sets & Dictionaries
