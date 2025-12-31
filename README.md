@@ -16,7 +16,7 @@ This repository is created to:
 - Prepare for **coding interviews and assessments**
  
 - Maintain a structured set of frequently asked Python problems
-- 
+ 
 - Improve coding speed and accuracy
 
 
