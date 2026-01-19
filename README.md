@@ -1,7 +1,7 @@
 
 # 🧠 Python Important Problems
 
-Welcome to my **Python Important Problems Repository** 🚀  
+Welcome to my **Python Important Problems Repository**   
 This repository contains a collection of **important Python programming problems** commonly asked in interviews, exams, and coding practice.
 
 
