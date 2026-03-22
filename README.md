@@ -17,7 +17,6 @@ This repository is created to:
  
 - Improve coding speed and accuracy
 
-
 ## 📚 Problem Categories
 
 - Basic Python Programs
